@@ -5,7 +5,7 @@
 Write your code in this editor and press "Run" button to compile and execute it.
 
 *******************************************************************************/
-
+//Manthan Gupta E18CSE102 EB03
 #include <iostream>
 #include <cmath>
 using namespace std;
